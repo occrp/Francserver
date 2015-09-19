@@ -1,0 +1,8 @@
+{
+  "name": "francserver",
+  "description": "A small HTTP server that detects language of input text",
+  "version": "1.0.0",
+  "dependencies": {
+    "franc": ""
+  }
+}
